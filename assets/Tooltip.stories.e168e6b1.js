@@ -1,0 +1,2 @@
+import{e as o,a as r}from"./index.cdf57a54.js";import{j as t}from"./jsx-runtime.3d570307.js";import"./index.8757562d.js";import"./iframe.ce9f08ce.js";import"./index.a133f6eb.js";const p={title:"Form/Tooltip",component:o,args:{children:t(r,{children:" Passe o mouse aqui "}),variant:"primary",text:"Voc\xEA passou o mouse"}},n={},c=["Primary"];export{n as Primary,c as __namedExportsOrder,p as default};
+//# sourceMappingURL=Tooltip.stories.e168e6b1.js.map
